@@ -1,2 +1,2 @@
-# 7506-Org.-de-Datos
-Ejerccios de la materia 7506
+7506-Organizacion de Datos
+
