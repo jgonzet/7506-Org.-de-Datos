@@ -1,4 +1,5 @@
-7506-Data Management  
-This repo contains different examples of data analysis and plotting.  
+**7506-Data Management**  
+This repo contains different examples of _data analysis and plotting_.  
+
 
 
